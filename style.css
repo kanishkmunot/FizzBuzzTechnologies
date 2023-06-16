@@ -283,7 +283,7 @@ html{
 
     .navbar{
         flex-direction: column;
-        height: 877px;
+        height: 433px;
         transition:ease-in 0.7s;
         
     }
@@ -347,6 +347,19 @@ html{
 
     html{
         scroll-behavior: smooth;
+        width: 447px;
+
+    .form input {
+            width: 96%;
+            
+        }
+
+    #message{
+        width: 404px;
+    }
+    .text-center {
+        padding-left: 38px;
+    }
 
 }
 
